@@ -15,3 +15,6 @@
 
 #Multiplicación 2
 5*8
+#resta 
+
+25-10 
